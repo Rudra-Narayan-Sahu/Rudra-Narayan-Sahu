@@ -1,13 +1,11 @@
 
 <h1>Rudra Narayan Sahu</h1>
 <p align="justify">Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
-
-<br/><br/>
-
+<br>
 <h2>About Me</h2>
 
-- 🤖 Building **LLM-based systems, RAG chatbots & AI agents**
-- 💬 Ask me about **LLMs, RAG, LangChain, Deep Learning,Computer Vision,NLP**
+- 🤖 Building **LLM-based systems, RAG chatbots & AI agents Fullstack Web Applcation**
+- 💬 Ask me about **LLMs, RAG, LangChain, Deep Learning,Computer Vision,NLP,Web-Dev and DSA**
 - 📫 How to reach me **rudrasahu9007@gmail.com**
 - ⚡ Fun fact: I like to Code
 
@@ -16,7 +14,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,pytorch,sklearn,opencv,flask,react,node,dockergit,github,githubactions,mysql,mongo&perline=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,pytorch,sklearn,opencv,flask,react,node.js,dockergit,github,githubactions,mysql,mongo&perline=12" alt="Tech Stack"/>
 </p>
 
 <br/>
