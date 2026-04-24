@@ -1,6 +1,6 @@
 
 <h1>Rudra Narayan Sahu</h1>
-<p align="justify">Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and . Skilled in Python, LangChain, Gemini,Groq, and LangGraph. .</p>
+<p align="justify">Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and Computer vision. Skilled in Python, LangChain, Gemini,Groq,LangGraph,OpenCV,YOLO Ultralytics .</p>
 <br>
 <h2>About Me</h2>
 
