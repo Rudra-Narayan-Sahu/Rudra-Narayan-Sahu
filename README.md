@@ -1,6 +1,6 @@
 
 <h1>Rudra Narayan Sahu</h1>
-<p align="justify">Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and intelligent voice agents. Skilled in Python, LangChain, OpenAI, LlamaIndex, and LangGraph. Proven success working on international projects, delivering scalable solutions, and pushing boundaries in real-world AI applications.</p>
+<p align="justify">Passionate AI/ML Engineer with hands-on experience building LLM-based systems, RAG chatbots, and . Skilled in Python, LangChain, Gemini,Groq, and LangGraph. .</p>
 <br>
 <h2>About Me</h2>
 
